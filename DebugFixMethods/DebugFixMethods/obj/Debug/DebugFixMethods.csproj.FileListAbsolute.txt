@@ -1,0 +1,11 @@
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.exe.config
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week3\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.pdb
+D:\School and Classes\Southern New Hampshire U\IT 230 - Software Dev with C#\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.csprojAssemblyReference.cache
+D:\School and Classes\Southern New Hampshire U\IT 230 - Software Dev with C#\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.exe
+D:\School and Classes\Southern New Hampshire U\IT 230 - Software Dev with C#\DebugFixMethods\DebugFixMethods\obj\Debug\DebugFixMethods.pdb
+D:\School and Classes\Southern New Hampshire U\IT 230 - Software Dev with C#\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.exe.config
+D:\School and Classes\Southern New Hampshire U\IT 230 - Software Dev with C#\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.exe
+D:\School and Classes\Southern New Hampshire U\IT 230 - Software Dev with C#\DebugFixMethods\DebugFixMethods\bin\Debug\DebugFixMethods.pdb
